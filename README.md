@@ -1,1 +1,2 @@
-# comp90089_supervised_learning
+## COMP90089
+### Supervised Learning Tutorial
